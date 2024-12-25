@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner number",
       "required": true,
-      "value": "923444844060"
+      "value": "923311397803"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -30,7 +30,7 @@
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
